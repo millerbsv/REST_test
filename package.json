@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/millerbsv/REST_test#readme",
   "dependencies": {
+    "axios": "^1.10.0",
     "chalk": "^4.1.2",
     "fs": "^0.0.1-security"
   },
